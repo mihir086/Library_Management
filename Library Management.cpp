@@ -591,9 +591,7 @@ int main()
     b.getbook();
 	
 	cout<<"\n------LIBRARY MANAGEMENT SYSTEM------\n";
-	cout<<"\n    Project by - Mihir Tomar";
-	cout<<"\n    Enrollment Number- A2305219392";
-	cout<<"\n    Section - 3CSE-6X";
+
 	cout<<"\n\nPress any key to continue...";
 	getch();
 
